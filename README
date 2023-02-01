@@ -8,5 +8,5 @@
 4. Git commit -m "" :  index에서 추적하는 내역을 .git(저장소)에 저장하는 명령어
 5. README를 수정 후 저장
 -> modified : README : 작업 이력과 저장소 이력이 다르다.
-6. 추적
-7. 저장
+6. Git add README : Staged modified : 
+7. Git commit -m "README" 저장("README" 수정 후 저장)
