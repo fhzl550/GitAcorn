@@ -1,0 +1,5 @@
+로그인 기능 생성
+<from>
+	<input name="id">
+	<input name="pw">
+</from>
